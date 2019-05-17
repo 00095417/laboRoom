@@ -1,7 +1,8 @@
-package com.example.laboroom
+package com.example.laboroom.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.laboroom.R
 
 class MainActivity : AppCompatActivity() {
 
